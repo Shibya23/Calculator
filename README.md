@@ -7,3 +7,5 @@ Far left switches are meant to input number in binary while push buttons zero an
 Results are displayed on the 7-Segment display 
 
 This calculator does not handle negatives well and will usually output the wrong answer
+
+The .csv file contains the original pin planner of this project 
